@@ -1,7 +1,4 @@
 # Project: Gizmo Systems
-## Deployed Link:
-https://gizmo-systems.herokuapp.com/
-
 ### Language:
 Javascript
 
