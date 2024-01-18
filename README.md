@@ -25,4 +25,19 @@
 
 
 ## Home Page
-![Screenshot](home.png)
+![Screenshot](gizmosystems-home.png)
+
+## Search Functionality
+![Screenshot](gizmosystems-search.png)
+
+## Students Page
+![Screenshot](gizmosystems-studentspage.png)
+
+## Specific Student Page
+![Screenshot](gizmosystems-studentspecific.png)
+
+## Campuses Page
+![Screenshot](gizmosystems-campuspage.png)
+
+## Specific Campus Page
+![Screenshot](gizmosystems-campusspecific.png)
